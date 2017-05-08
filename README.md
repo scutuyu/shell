@@ -1,0 +1,2 @@
+# shell
+usual shell options .
