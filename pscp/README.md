@@ -5,7 +5,7 @@
 >
 > 点开网址打开之后如下图：
 >
-> <img src="https://github.com/scutuyu/shell/blob/master/pscp/pscp.png" width="100%" alt="pscp_download.png" />
+> <img src="https://github.com/scutuyu/shell/blob/master/pscp/pscp.png?raw=true" width="100%" alt="pscp_download.png" />
 
 ## 然后将pscp.exe文件拷贝到C:\Windows\System32
 
