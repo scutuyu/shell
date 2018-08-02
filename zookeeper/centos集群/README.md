@@ -25,9 +25,10 @@ vim /tmp/zookeeper/data/myid
 ```
 > 每台服务器myid文件分别写上1，2，3
 
-4. __关闭防火墙__
+4. __关闭防火墙和不开机启动__
 ```
 systemctl stop firewalld.service
+systemctl disable firewalld
 ```
 > 3台服务器都需要关闭防火墙
 
